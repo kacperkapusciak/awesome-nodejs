@@ -613,6 +613,7 @@
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 - [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 - [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [e2e](https://github.com/tester-army/e2e) - End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions.
 
 ### Security
 
